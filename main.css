@@ -1,0 +1,47 @@
+html body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	height: auto;
+	border-bottom: 1px solid #ddd;
+	box-shadow: 1px 1px 1px #ddd;
+}
+header h1{
+	font-weight: 100;
+	font-size: 45px;
+	line-height: 100px;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+	font-family: consolas;
+}
+main{
+	width: 960px;
+	padding: 50px;
+	margin-top: 20px !important;
+	margin: 0 auto;
+	border: 1px solid #ddd;
+}
+main p{
+	font-size: 18px;
+	font-weight: 500;
+}
+main a{
+	text-decoration: none;
+	color: orange;
+}
+main h1{
+	font-weight: 100;
+	font-size: 45px;
+	margin: 0;
+	font-family: consolas;
+	padding-bottom: 20px;
+	border-bottom: 3px solid #ddd;
+}
+li{
+	font-size: 18px;
+	padding: 10px 0px 10px 0px;
+}
